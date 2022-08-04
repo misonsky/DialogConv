@@ -43,6 +43,6 @@ python runner.py
 1. please set $model=sup$, $optimizerType=adam$ and conduct "python runner.py"
 
 ### Visual Results
-1. please set $do\_prepare=False, do\_train=False, do\_eval=False, do\_predict=False$  and "python runner.py  
+1. please set $do\_{prepare}=False, do_train=False, do\_eval=False, do\_predict=False$  and "python runner.py  
 
 
